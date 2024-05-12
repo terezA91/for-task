@@ -1,4 +1,4 @@
-FROM ununtu
+FROM ubuntu
 
 USER 0
 
